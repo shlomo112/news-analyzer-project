@@ -1,0 +1,7 @@
+[
+    {
+        "name": "newsdata.io",
+        "url": "https://newsdata.io/api/1/news?apikey=",
+        "api_key_env_var": "NEWSDATA_API_KEY"
+    }
+]
